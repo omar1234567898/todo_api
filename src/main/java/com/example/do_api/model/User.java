@@ -12,7 +12,6 @@ public class User {
     private String role; // "Standard", "Company-Admin", "Super-User"
     private Long companyId;
 
-    // Getters and setters
     public Long getId() {
         return id;
     }
