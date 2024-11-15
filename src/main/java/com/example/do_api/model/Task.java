@@ -15,7 +15,6 @@ public class Task {
     private Long userId;
     private Long companyId;
 
-    // Getters and setters
     public Long getId() {
         return id;
     }
