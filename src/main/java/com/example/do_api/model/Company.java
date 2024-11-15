@@ -12,7 +12,6 @@ public class Company {
     private Long id;
     private String name;
 
-    // Getters and setters
     public Long getId() {
         return id;
     }
